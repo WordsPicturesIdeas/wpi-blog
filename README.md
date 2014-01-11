@@ -1,4 +1,4 @@
 blog
 ====
 
-Jeykll workflow testing is awesome. Coming, more real content.
+Jeykll-ized blog for WPI. What's old is new again.
